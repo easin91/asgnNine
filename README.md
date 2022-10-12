@@ -4,6 +4,7 @@
 - Then go to project folder : cd my-app
 - Then open VS Code : code . 
 - Then run the project : npm start 
+- Then Install react bootstrap : npm install react-bootstrap bootstrap
 -  
 
 
