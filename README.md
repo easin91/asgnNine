@@ -1,5 +1,5 @@
-
-
+# **Step by Step Working Process**
+___
 - Create project : run cmd : npx create-react-app my-app
 - Then go to project folder : cd my-app
 - Then open VS Code : code . 
@@ -9,8 +9,9 @@
 - import 'bootstrap/dist/css/bootstrap.min.css';
 - Then create file  _redirects  inside public folder and write only this code :  /* /index.html 200
 - Then build : npm run build
-- 
-- 
+- Deploy to Netlify by drag and drop
+- Drag build folder only 
+- Visit that live site https://storied-longma-a6dd99.netlify.app
 
 
 
