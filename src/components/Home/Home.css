@@ -1,0 +1,16 @@
+.front-page {
+    display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.banner-image-card {
+    height: 180px;
+    border: none;
+
+}
+
+.banner-text {
+    border-radius: 0;
+    border: none;
+}

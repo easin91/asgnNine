@@ -1,0 +1,22 @@
+.topics-outer {
+    display: inline-block;
+    justify-content: space-around;
+}
+
+.topic {
+    width: 250px;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid lightcoral;
+    border-radius: 10px;
+
+}
+
+button a {
+    text-decoration: none;
+}
+
+.topic-image {
+    width: 200px;
+    background: yellowgreen;
+}

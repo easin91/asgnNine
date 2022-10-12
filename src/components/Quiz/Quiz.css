@@ -1,0 +1,35 @@
+.quiz {
+
+    margin: 20px;
+    border: 2px solid lightgreen;
+}
+
+.options {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    justify-content: center;
+    position: relative;
+}
+
+.options-image {
+    width: 40px;
+    position: absolute;
+    top: -10px;
+    right: 0px;
+    background-color: green;
+}
+
+.options-image-btn {
+    width: 0px;
+    position: absolute;
+    top: -50px;
+    right: 50px;
+}
+
+.radio {
+    margin: 5px;
+}
+
+span {
+    margin: 5px;
+}
