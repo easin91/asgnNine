@@ -5,7 +5,8 @@
 - Then open VS Code : code . 
 - Then run the project : npm start 
 - Then Install react bootstrap : npm install react-bootstrap bootstrap
--  
+- The following line is included in  src/index.js file 
+- 
 
 
 
