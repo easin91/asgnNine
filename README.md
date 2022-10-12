@@ -7,6 +7,9 @@
 - Then Install react bootstrap : npm install react-bootstrap bootstrap
 - The following line is included in  src/index.js file 
 - import 'bootstrap/dist/css/bootstrap.min.css';
+- Then create file  _redirects  inside public folder and write only this code :  /* /index.html 200
+- Then build : npm run build
+- 
 - 
 
 
