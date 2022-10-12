@@ -2,7 +2,8 @@
 
 - Create project : run cmd : npx create-react-app my-app
 - Then go to project folder : cd my-app
--  
+- Then open VS Code : code . 
+-   
 
 
 
